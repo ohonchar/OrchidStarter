@@ -6,7 +6,6 @@ site:
     avatar: '/assets/media/logo.jpg'
   theme: 'FutureImperfect'
   baseUrl: 'netlify'
-
 theme:
   social:
     facebook: 'facebookUsername'
