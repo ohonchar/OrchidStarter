@@ -17,7 +17,6 @@ theme:
       - label: 'linkedin'
         link: 'https://www.example.com'
         icon: 'fa-tag'
-
   menu:
     - type: 'page'
       title: 'Home'
