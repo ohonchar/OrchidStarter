@@ -25,6 +25,7 @@ import com.eden.orchid.api.theme.pages.OrchidPage
  */
 @Description("Adds all pages from a generator to the menu.", name = "Generator Pages")
 class GroupPagesMenuItem : OrchidMenuFactory("groupPages") {
+
     @Option
     @Description("The collectionId to find pages from")
     lateinit var collectionId: String
