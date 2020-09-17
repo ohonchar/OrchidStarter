@@ -1,0 +1,11 @@
+{
+  "name": "Heroku OrchidStarter",
+  "description": "Heroku Java Web Application",
+  "repository": "https://github.com/ohonchar/OrchidStarter",
+  "logo": "",
+  "keywords": [
+    "java",
+    "gradle",
+    "kotlin"
+  ]
+}
