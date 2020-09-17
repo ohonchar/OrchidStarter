@@ -1,11 +1,5 @@
 {
-  "name": "Heroku OrchidStarter",
-  "description": "Heroku Java Web Application",
-  "repository": "https://github.com/ohonchar/OrchidStarter",
-  "logo": "",
-  "keywords": [
-    "java",
-    "gradle",
-    "kotlin"
-  ]
+  "name": "Start on Heroku: Kotlin",
+  "description": "A barebones Kotlin app, which can easily be deployed to Heroku.",
+  "addons": [ "heroku-postgresql" ]
 }

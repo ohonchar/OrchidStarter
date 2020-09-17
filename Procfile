@@ -1,1 +1,1 @@
-web: ./gradlew orchidServe
+web: java -jar build/libs/OrchidStarter-1.jar
